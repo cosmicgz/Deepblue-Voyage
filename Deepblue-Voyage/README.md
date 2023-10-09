@@ -8,23 +8,18 @@ This is our project for NASA Space Apps Challenge 2023, hosted by the Nepal Rese
 
 **Team Members:**
 - Aayush Joshi
-  ![Aayush Joshi](../../assets/images/jpg/a.jpg)  
   [LinkedIn](https://www.linkedin.com/in/aayush-joshi-🚀-ba9570199/)
 - Gajananda M. Adhikari
-  ![Gajananda M. Adhikari](../../assets/images/jpg/g.jpg)  
   [LinkedIn](https://www.linkedin.com/in/gazananda/)
 - Nischal Khanal
-  ![Nischal Khanal](../../assets/images/jpg/n.jpg)  
   [LinkedIn](https://www.linkedin.com/in/nischalkhanal/)
 - Sanskriti Malla
-  ![Sanskriti Malla](../../assets/images/jpg/sa.jpg)  
   [LinkedIn](https://www.linkedin.com/in/sanskriti-malla-23519724b/)
 - Srijan Lamichanne
-  ![Srijan Lamichanne](../../assets/images/jpg/s.jpg)  
   [LinkedIn](https://www.linkedin.com/in/srijanlamichanne/)
 - Ujjwal Dhakal
-  ![Ujjwal Dhakal](../../assets/images/jpg/u.jpg)  
   [LinkedIn](https://www.linkedin.com/in/ujjwalnp/)
+  
 
 **1. Introduction**
 
@@ -71,5 +66,7 @@ This will start the development server, and you can access the application.
 
 **Acknowledgments:**
 Gratitude to NASA for valuable data and inspiration. Special thanks to NRCC for hosting the local event, a 36-hour hackathon, providing us with this opportunity.
+
+
 
 *© Copyright Gardener of the galaxy 2023*
